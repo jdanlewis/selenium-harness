@@ -67,9 +67,9 @@ To run the Selenium Python WebDriver without any parameters:
 UI maps specify a list of actions to be run for a particular page. Actions are described below:
 
 <table>
-<tr>
-<td>Action</td><td>Description</td><td>Format</td>
-</tr>
+<thead>
+<th>Action</th><th>Description</th><th>Format</th>
+</thead>
 <tr><td>action_new</td><td>Create a new Action Chain</td><td>action_new</td></tr>
 <tr><td>action_move_to_element</td><td>Adds to the current Action Chain, moving the mouse to the specified element</td><td>action_move_to_element|selector|element</td></tr>
 <tr><td>action_click</td><td>Adds a mouse click the current Action Chain</td><td>action_click</td></tr>
