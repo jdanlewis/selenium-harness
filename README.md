@@ -133,7 +133,7 @@ Describes the element to target using the specified selector.
     action_keys|down,down,down,return
     action_perform
 
-For more information, check out Locating UI Elements section in the (WebDriver documentation)[http://seleniumhq.org/docs/03_webdriver.jsp].
+For more information, check out Locating UI Elements section in the [WebDriver documentation](http://seleniumhq.org/docs/03_webdriver.jsp).
 
 ### Actions to Consider Adding ###
 
