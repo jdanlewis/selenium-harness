@@ -1,7 +1,7 @@
 import os
 import sys
 import argparse
-from driver.driver import Driver
+from src.driver import Driver
 
 
 def main():
